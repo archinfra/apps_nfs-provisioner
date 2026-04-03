@@ -1,0 +1,3 @@
+dist/
+.build-payload/
+payload.tar.gz

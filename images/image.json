@@ -1,0 +1,16 @@
+[
+  {
+    "arch": "amd64",
+    "platform": "linux/amd64",
+    "pull": "registry.cn-beijing.aliyuncs.com/kube4/nfs-subdir-external-provisioner:v4.0.2",
+    "tag": "sealos.hub:5000/kube4/nfs-subdir-external-provisioner:v4.0.2",
+    "tar": "nfs-subdir-external-provisioner-amd64.tar"
+  },
+  {
+    "arch": "arm64",
+    "platform": "linux/arm64",
+    "pull": "registry.cn-beijing.aliyuncs.com/kube4/nfs-subdir-external-provisioner:v4.0.2",
+    "tag": "sealos.hub:5000/kube4/nfs-subdir-external-provisioner:v4.0.2",
+    "tar": "nfs-subdir-external-provisioner-arm64.tar"
+  }
+]
